@@ -1,1 +1,2 @@
 # git-collaboration
+Collaborators: Teddy
